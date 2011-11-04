@@ -55,6 +55,7 @@ choose the number of ribbons.
 %doc %{_texmfdistdir}/doc/generic/pst-rubans/pst-rubans-doc.tex
 #- source
 %doc %{_texmfdistdir}/source/generic/pst-rubans/Makefile
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -65,3 +66,5 @@ choose the number of ribbons.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}
