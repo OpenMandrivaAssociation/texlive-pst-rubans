@@ -6,7 +6,7 @@
 # catalog-version 1.2
 Name:		texlive-pst-rubans
 Version:	1.2
-Release:	9
+Release:	10
 Summary:	Draw three-dimensional ribbons
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-rubans
