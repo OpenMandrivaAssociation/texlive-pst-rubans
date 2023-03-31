@@ -1,6 +1,6 @@
 Name:		texlive-pst-rubans
 Version:	23464
-Release:	1
+Release:	2
 Summary:	Draw three-dimensional ribbons
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-rubans
