@@ -3,7 +3,7 @@ Version:	23464
 Release:	2
 Summary:	Draw three-dimensional ribbons
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-rubans
+URL:		https://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-rubans
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-rubans.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-rubans.doc.r%{version}.tar.xz
